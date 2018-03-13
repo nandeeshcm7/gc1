@@ -2,9 +2,9 @@
 
 //constant database config variable
 
-define("HOST", "localhost");
-define("USERNAME", "root");
-define("PASS", "");
-define("DBNAME", "demo");
+define("HOST", "den1.mysql5.gear.host");
+define("USERNAME", "demo9");
+define("PASS", "password@");
+define("DBNAME", "demo9");
 
 ?>
